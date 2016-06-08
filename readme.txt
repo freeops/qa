@@ -2,4 +2,4 @@ start run git
 git is free software
 ¹þ¹þ
 dingdang
-dev change
+dev change Creating a new branch is quick AND simple
